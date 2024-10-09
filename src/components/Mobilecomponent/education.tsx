@@ -1,8 +1,7 @@
 import React from 'react'
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 export const MobileEducation = () => {
-    let education = [
+    const education = [
         {
           uniname: "GIAIC University",
           date: "20/Dec/2023",

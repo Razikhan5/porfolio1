@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const MobileProject = () => {
-    let projects = [
+    const projects = [
         {
             name: "Number guessing game",
             detail: "Typescript number guessing game project console interactive number guessing game. Guess any number under 10 and try your luck.",

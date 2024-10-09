@@ -5,10 +5,8 @@ import AOS from "aos"
 import"aos/dist/aos.css"
 import {Sidebar} from "./sidebar";
 import {Detail} from "./detail";
-import { div } from "framer-motion/client";
 import MobileCard from "../Mobilecomponent/card";
 import { MobileEducation } from "../Mobilecomponent/education";
-;
 import { MobileSkill } from "../Mobilecomponent/skill";
 import { MobileProject } from "../Mobilecomponent/project";
 
